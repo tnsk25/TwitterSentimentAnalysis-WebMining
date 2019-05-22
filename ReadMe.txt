@@ -1,3 +1,5 @@
+The purpose of this project is to classify the given twitter tweets in to positive, negative and neutral classes i.e. the project basically analyses the emotion of a particular tweet. To train and classify the given data, We have used different classification techniques such as Multinomial Naive Bayes, Linear SVM(Support Vector Machine), LSTM(Long Short Term Memory), CNN(Convolutional Neural Network) and ensembles of some of the models mentioned above. Before feeding the data into the model, pre-processing of data was done, features like unigram, bigram, trigram, padding, Word2vec etc. were used and finally the data was converted into a format which a machine learning model can understand. Out of all the classification techniques used, prediction taken by majority voting between CNN, LSTM, SVM performed better.
+
 Please read the pdf report first to get a clear understanding of the project
 Open the files(Obama and Romney) in Jupyter Notebook
 
