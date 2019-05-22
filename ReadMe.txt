@@ -1,3 +1,4 @@
+Please read the pdf report first to get a clear understanding of the project
 Open the files(Obama and Romney) in Jupyter Notebook
 
 Install the required packages necessary to run the code (from the terminal)
