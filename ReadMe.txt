@@ -2,7 +2,7 @@ Open the files(Obama and Romney) in Jupyter Notebook
 
 Install the required packages necessary to run the code (from the terminal)
 
-glove.6B.50d.txt embedding file is added in the home directory
+Download "glove.6B.50d.txt" embedding file and add it in the home directory
 
 Run all the necessary snippets for each files in the directory
 
